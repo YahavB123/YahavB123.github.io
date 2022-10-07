@@ -59,6 +59,7 @@ tr:nth-child(odd) {
   font-family: 'Space Mono', monospace;
   font-weight: 700;
   font-size: smaller;
+  padding: 0px 5px;
 }
 
 #attr table {
